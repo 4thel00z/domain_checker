@@ -1,5 +1,7 @@
 # Domain Checker
 
+[![asciicast](https://asciinema.org/a/96taoEnEMRx2fYOGxUGFt70DL.png)](https://asciinema.org/a/96taoEnEMRx2fYOGxUGFt70DL)
+
 This script can be used to check if the domain you want is already registered.
 
 ```
